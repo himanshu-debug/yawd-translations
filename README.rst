@@ -1,5 +1,5 @@
 yawd-translations, create multilingual django websites
-======================================================
+==============================================================
 
 `yawd-translations <http://yawd.eu/open-source-projects/yawd-translations/>`_
 provides a set of tools for creating multilingual websites with
